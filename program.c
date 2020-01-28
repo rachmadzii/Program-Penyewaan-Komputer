@@ -171,9 +171,7 @@ void Data_Peminjam(){
 void Keluar(){
     system("cls");
         printf("\n ----- Program ini dirancang oleh -----\n\n");
-        printf(" Sabilillah Fauzal Addim   (1810511017)\n");
         printf(" Rachma Adzima Maulida     (1910511024)\n");
-        printf(" Muhammad Ryan Fahlevi     (1910511031)\n");
         printf("\n Kelas\t\t: D\n");
         printf(" Mata Kuliah\t: Dasar Pemrograman");
         printf("\n\n Terima Kasih...\n");
